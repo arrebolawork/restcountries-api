@@ -25,3 +25,15 @@ body {
   height: 100px;
   border-radius: 16px 16px 0 0;
 }
+
+#selectSection {
+  display: flex;
+  justify-content: center;
+}
+
+#continentesSLC {
+  height: 2rem;
+  min-width: 150px;
+  border-radius: 10px;
+  padding: 0.5rem 1rem;
+}
